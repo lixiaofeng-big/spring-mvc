@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch5-spring-validation" />
+        <module name="ch10-spring-file" />
+        <module name="ch7-spring-static" />
+        <module name="ch13-springmvc-ssm-codea" />
+        <module name="ch8-spring-jsona" />
+        <module name="ch4-springmvc-formatter" />
+        <module name="ch12-spring-code" />
+        <module name="ch1-spring-mvc-helloworld" />
+        <module name="ch3-spring-mvc" />
+        <module name="ch9-spring-interceptor" />
+        <module name="ch11-servlet3" />
+        <module name="ch6-spring-view" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

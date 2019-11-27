@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch1-spring-mvc-helloworld" />
+    <file type="web" url="file://$PROJECT_DIR$/ch10-spring-file" />
+    <file type="web" url="file://$PROJECT_DIR$/ch11-servlet3" />
+    <file type="web" url="file://$PROJECT_DIR$/ch12-spring-code" />
+    <file type="web" url="file://$PROJECT_DIR$/ch13-springmvc-ssm-codea" />
+    <file type="web" url="file://$PROJECT_DIR$/ch3-spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/ch4-springmvc-formatter" />
+    <file type="web" url="file://$PROJECT_DIR$/ch5-spring-validation" />
+    <file type="web" url="file://$PROJECT_DIR$/ch6-spring-view" />
+    <file type="web" url="file://$PROJECT_DIR$/ch7-spring-static" />
+    <file type="web" url="file://$PROJECT_DIR$/ch8-spring-jsona" />
+    <file type="web" url="file://$PROJECT_DIR$/ch9-spring-interceptor" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
